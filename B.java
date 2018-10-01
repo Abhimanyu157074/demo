@@ -7,7 +7,7 @@ public class B
        
     } 
   
-    / 
+    
     public void setProperty(Integer property) 
     { 
         if (property == 0) 
@@ -24,7 +24,7 @@ public class B
         if (property == 0) 
         { 
            
-            return null; 
+            return 0; 
         } 
         return property; 
     } 
