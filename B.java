@@ -21,11 +21,6 @@ public class B
     
     public int getProperty() 
     { 
-        if (property == 0) 
-        { 
-           
-            return 0; 
-        } 
         return property; 
     } 
 }
