@@ -21,6 +21,6 @@ public class B
     
     public int getProperty() 
     { 
-        return property; 
+        return 12; 
     } 
 }
